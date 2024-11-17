@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68f6cfea-23e5-43d5-8497-b4b18b6d2328" name="Changes" comment="Hello I am making new project for practicing OOPS concept">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T1Class/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="68f6cfea-23e5-43d5-8497-b4b18b6d2328" name="Changes" comment="I am making new project for practicing OOPS concept." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,16 +22,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/SURAJ DUBEY/IdeaProjects/ATB8xOOPSRevision&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/SURAJ DUBEY/IdeaProjects/ATB8xOOPSRevision/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/SURAJ DUBEY/IdeaProjects/ATB8xJavaPrograms",
+    "onboarding.tips.debug.path": "C:/Users/SURAJ DUBEY/IdeaProjects/ATB8xOOPSRevision/src/Main.java"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
+    ]
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="T1Class" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="T1Class.Main" />
@@ -74,12 +82,38 @@
       <option name="project" value="LOCAL" />
       <updated>1731826111880</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Hello I am making new project for practicing OOPS concept.">
+      <option name="closed" value="true" />
+      <created>1731827151760</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731827151760</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Hello I am making new project for practicing OOPS concept.">
+      <option name="closed" value="true" />
+      <created>1731827190112</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731827190112</updated>
+    </task>
+    <task id="LOCAL-00005" summary="I am making new project for practicing OOPS concept.">
+      <option name="closed" value="true" />
+      <created>1731827333661</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731827333661</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hello I am Starting practicing OOPS Concept" />
     <MESSAGE value="Hello I am making new project for practicing OOPS concept" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hello I am making new project for practicing OOPS concept" />
+    <MESSAGE value="Hello I am making new project for practicing OOPS concept." />
+    <MESSAGE value="I am making new project for practicing OOPS concept." />
+    <option name="LAST_COMMIT_MESSAGE" value="I am making new project for practicing OOPS concept." />
   </component>
 </project>
