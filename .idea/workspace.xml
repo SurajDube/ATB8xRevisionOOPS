@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68f6cfea-23e5-43d5-8497-b4b18b6d2328" name="Changes" comment="I am making new project for practicing OOPS concept." />
+    <list default="true" id="68f6cfea-23e5-43d5-8497-b4b18b6d2328" name="Changes" comment="I am making new project for practicing OOPS concept.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T1Class/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T1Class/Main1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,11 +16,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "SurajDube"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/SurajDube/ATB8xRevisionOOPS",
+    "accountId": "9928eabd-d72a-43cd-8034-583f849ffe9c"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2oxstgyCC7VUUU6tiEpR5ZHSoJO" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,7 +45,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/SURAJ DUBEY/IdeaProjects/ATB8xJavaPrograms",
+    "last_opened_file_path": "C:/Users/SURAJ DUBEY/IdeaProjects/ATB8xOOPSRevision/src/T2Class",
     "onboarding.tips.debug.path": "C:/Users/SURAJ DUBEY/IdeaProjects/ATB8xOOPSRevision/src/Main.java"
   },
   "keyToStringList": {
@@ -39,6 +56,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SURAJ DUBEY\IdeaProjects\ATB8xOOPSRevision\src\T2Class" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="T1Class" />
     </key>
@@ -106,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731827333661</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="I am making new project for practicing OOPS concept.">
+      <option name="closed" value="true" />
+      <created>1731828040705</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731828040705</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
