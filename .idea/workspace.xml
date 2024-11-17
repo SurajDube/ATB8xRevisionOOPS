@@ -4,16 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68f6cfea-23e5-43d5-8497-b4b18b6d2328" name="Changes" comment="I am making new project for practicing OOPS concept.">
-      <change beforePath="$PROJECT_DIR$/src/T3Class/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/T3Class/Main1.java" beforeDir="false" />
-    </list>
+    <list default="true" id="68f6cfea-23e5-43d5-8497-b4b18b6d2328" name="Changes" comment="practice" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -150,7 +153,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731828724790</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="practice">
+      <option name="closed" value="true" />
+      <created>1731829271979</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1731829271979</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -158,6 +169,7 @@
     <MESSAGE value="Hello I am making new project for practicing OOPS concept" />
     <MESSAGE value="Hello I am making new project for practicing OOPS concept." />
     <MESSAGE value="I am making new project for practicing OOPS concept." />
-    <option name="LAST_COMMIT_MESSAGE" value="I am making new project for practicing OOPS concept." />
+    <MESSAGE value="practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice" />
   </component>
 </project>
