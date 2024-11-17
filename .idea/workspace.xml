@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68f6cfea-23e5-43d5-8497-b4b18b6d2328" name="Changes" comment="practice" />
+    <list default="true" id="68f6cfea-23e5-43d5-8497-b4b18b6d2328" name="Changes" comment="repractice">
+      <change beforePath="$PROJECT_DIR$/ATB8xOOPSRevision.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ATB8xRevision.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T1Class/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T1Class/Main2.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +72,20 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="T1Class.Main" />
-      <module name="ATB8xOOPSRevision" />
+      <module name="ATB8xRevision" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="ATB8xRevision" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="ATB8xRevision" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -161,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731829271979</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="repractice">
+      <option name="closed" value="true" />
+      <created>1731829343914</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1731829343914</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -170,6 +194,7 @@
     <MESSAGE value="Hello I am making new project for practicing OOPS concept." />
     <MESSAGE value="I am making new project for practicing OOPS concept." />
     <MESSAGE value="practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="practice" />
+    <MESSAGE value="repractice" />
+    <option name="LAST_COMMIT_MESSAGE" value="repractice" />
   </component>
 </project>
