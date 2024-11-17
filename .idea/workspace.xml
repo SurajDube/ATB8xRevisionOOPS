@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68f6cfea-23e5-43d5-8497-b4b18b6d2328" name="Changes" comment="repractice">
-      <change beforePath="$PROJECT_DIR$/ATB8xOOPSRevision.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ATB8xRevision.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/T1Class/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T1Class/Main2.java" afterDir="false" />
-    </list>
+    <list default="true" id="68f6cfea-23e5-43d5-8497-b4b18b6d2328" name="Changes" comment="repractice" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -185,7 +182,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731829343914</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="repractice">
+      <option name="closed" value="true" />
+      <created>1731829556053</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1731829556053</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
