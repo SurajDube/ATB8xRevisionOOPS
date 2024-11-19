@@ -1,4 +1,4 @@
-package Topic1ClassObject;
+package Topic2ClassObject;
 
 public class object {
     int x = 5;
